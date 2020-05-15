@@ -8,7 +8,7 @@ SIZE = 1080
 filters = [
     'Clarendon', 'Gingham', 'Moon', 'Lark', 'Reyes', 'Juno', 'Slumber',
     'Crema', 'Ludwig', 'Aden', 'Perpetua', 'Amaro', 'Mayfair', 'Rise',
-    'Hudson', 'Valencia', 'X-Pro II', 'Sierra', 'Willow', 'Lo-Fi', 'Inkwell',
+    'Hudson', 'Valencia', 'X-Pro-II', 'Sierra', 'Willow', 'Lo-Fi', 'Inkwell',
     'Hefe', 'Nashville', 'Stinson', 'Vesper', 'Earlybird', 'Brannan', 'Sutro',
     'Toaster', 'Walden', '1977', 'Kelvin', 'Maven', 'Ginza', 'Skyline',
     'Dogpatch', 'Brooklyn', 'Helena', 'Ashby', 'Charmes'
