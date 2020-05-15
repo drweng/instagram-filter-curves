@@ -15,10 +15,9 @@ filters = [
 ]
 
 for n in range(len(filters)):
-    in_file = 'input/%d.png' % (n + 1)
+    in_file = 'input/%d.jpg' % (n + 1)
     with Image.open(in_file) as im:
-        a = np.array(im)
-    img = a[126:126 + SIZE, :, :]
+        img = np.array(im)
 
     # look at a circle with diameter of SIZE * 0.3
     r_curve = np.zeros((255), int)
